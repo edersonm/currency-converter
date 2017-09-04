@@ -1,0 +1,7 @@
+com/currency/service/CurrencyProcessorServiceTest.class
+io/dropwizard/testing/junit/DAOTestRule$1.class
+com/currency/util/UpdaterUtilTest.class
+io/dropwizard/testing/junit/DAOTestRule$Builder.class
+com/currency/db/CurrencyDaoTest.class
+com/currency/util/DateUtilTest.class
+io/dropwizard/testing/junit/DAOTestRule.class
